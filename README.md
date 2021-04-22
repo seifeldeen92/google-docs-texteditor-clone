@@ -21,7 +21,7 @@ Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=iRaelG7v0OU)
 
 ### Run `yarn start` on both `Client` & `Server`
 
-## for the `server` configuration you can find it in `config.ts` in the `server`
+for the `server` configuration you can find it in `config.ts` in the `server`
 
 **NOTE**
 
